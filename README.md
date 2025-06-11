@@ -87,6 +87,7 @@ Some of the links below are 🚧 **Work In Progress** 🚧 so please keep this i
 - [Zed](https://github.com/h2000/zed-roc)
 - [Kakoune](https://github.com/evanrelf/roc.kak)
 - [Emacs](https://gitlab.com/tad-lispy/roc-mode)
+- [Lite XL](https://github.com/0riginaln0/lite-xl-roc)
 
 ## Articles
 
